@@ -1,7 +1,7 @@
 {
   "_comment": "Forge In-Game Config",
   "bettertitlescreen.config.category.listCustomText.title": "自定义文本",
-  "bettertitlescreen.config.category.general.title": "General",
-  "bettertitlescreen.config.category.listCustomText.tooltip": "Insert the text you want here (supports multiple lines).",
-  "bettertitlescreen.config.category.general.tooltip": "Select which brandings you want to show up on the title screen (If any at all)."
+  "bettertitlescreen.config.category.general.title": "通用",
+  "bettertitlescreen.config.category.listCustomText.tooltip": "在这里插入文本（支持多行）。",
+  "bettertitlescreen.config.category.general.tooltip": "选择想要在标题界面显示的标志（如果有的话）。"
 }
